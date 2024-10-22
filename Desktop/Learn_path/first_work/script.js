@@ -18,3 +18,4 @@ let theNumber;
 do {
     let theNumber = prompt("Enter a number greater than 100?", 0);
 } while (theNumber <= 100 && theNumber);
+
